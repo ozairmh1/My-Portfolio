@@ -2,6 +2,5 @@
 --------------
 Making my portfolio waebsite
 right now i sam searching for good templetes i will soon upload if i got anything good
----------
  this project is now paused
 got the idea to work
